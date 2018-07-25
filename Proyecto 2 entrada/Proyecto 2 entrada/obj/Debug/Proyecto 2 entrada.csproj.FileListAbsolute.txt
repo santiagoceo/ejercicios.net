@@ -1,0 +1,6 @@
+C:\Users\elcor\source\repos\Proyecto 2 entrada\Proyecto 2 entrada\bin\Debug\Proyecto 2 entrada.exe.config
+C:\Users\elcor\source\repos\Proyecto 2 entrada\Proyecto 2 entrada\bin\Debug\Proyecto 2 entrada.exe
+C:\Users\elcor\source\repos\Proyecto 2 entrada\Proyecto 2 entrada\bin\Debug\Proyecto 2 entrada.pdb
+C:\Users\elcor\source\repos\Proyecto 2 entrada\Proyecto 2 entrada\obj\Debug\Proyecto 2 entrada.csproj.CoreCompileInputs.cache
+C:\Users\elcor\source\repos\Proyecto 2 entrada\Proyecto 2 entrada\obj\Debug\Proyecto 2 entrada.exe
+C:\Users\elcor\source\repos\Proyecto 2 entrada\Proyecto 2 entrada\obj\Debug\Proyecto 2 entrada.pdb

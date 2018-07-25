@@ -1,0 +1,7 @@
+C:\Users\elcor\source\repos\Prueba 1 Variables\Prueba 1 Variables\bin\Debug\Prueba 1 Variables.exe.config
+C:\Users\elcor\source\repos\Prueba 1 Variables\Prueba 1 Variables\bin\Debug\Prueba 1 Variables.exe
+C:\Users\elcor\source\repos\Prueba 1 Variables\Prueba 1 Variables\bin\Debug\Prueba 1 Variables.pdb
+C:\Users\elcor\source\repos\Prueba 1 Variables\Prueba 1 Variables\obj\Debug\Prueba 1 Variables.csprojAssemblyReference.cache
+C:\Users\elcor\source\repos\Prueba 1 Variables\Prueba 1 Variables\obj\Debug\Prueba 1 Variables.csproj.CoreCompileInputs.cache
+C:\Users\elcor\source\repos\Prueba 1 Variables\Prueba 1 Variables\obj\Debug\Prueba 1 Variables.exe
+C:\Users\elcor\source\repos\Prueba 1 Variables\Prueba 1 Variables\obj\Debug\Prueba 1 Variables.pdb

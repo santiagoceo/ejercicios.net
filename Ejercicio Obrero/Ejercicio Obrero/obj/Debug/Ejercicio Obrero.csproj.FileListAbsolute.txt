@@ -1,0 +1,7 @@
+C:\Users\elcor\source\repos\Ejercicio Obrero\Ejercicio Obrero\bin\Debug\Ejercicio Obrero.exe.config
+C:\Users\elcor\source\repos\Ejercicio Obrero\Ejercicio Obrero\bin\Debug\Ejercicio Obrero.exe
+C:\Users\elcor\source\repos\Ejercicio Obrero\Ejercicio Obrero\bin\Debug\Ejercicio Obrero.pdb
+C:\Users\elcor\source\repos\Ejercicio Obrero\Ejercicio Obrero\obj\Debug\Ejercicio Obrero.csprojAssemblyReference.cache
+C:\Users\elcor\source\repos\Ejercicio Obrero\Ejercicio Obrero\obj\Debug\Ejercicio Obrero.csproj.CoreCompileInputs.cache
+C:\Users\elcor\source\repos\Ejercicio Obrero\Ejercicio Obrero\obj\Debug\Ejercicio Obrero.exe
+C:\Users\elcor\source\repos\Ejercicio Obrero\Ejercicio Obrero\obj\Debug\Ejercicio Obrero.pdb
